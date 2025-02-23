@@ -23,7 +23,7 @@
        <SERVICE_CONTENT>
         <item>
          <SERVICE_VERSION>0001</SERVICE_VERSION>
-         <RELEASE_STATE>NOT_RELEASED</RELEASE_STATE>
+         <RELEASE_STATE>RELEASED</RELEASE_STATE>
          <SRVD_REF>
           <URI>/sap/bc/adt/ddic/srvd/sources/zrap100_ui_travel_2025</URI>
           <TYPE>SRVD/SRV</TYPE>
@@ -43,7 +43,7 @@
     <RELEASE_SUPPORTED>true</RELEASE_SUPPORTED>
     <PUBLISHED>true</PUBLISHED>
     <BINDING_CREATED>true</BINDING_CREATED>
-    <ALLOWED_ACTION>UNPUBLISH</ALLOWED_ACTION>
+    <ALLOWED_ACTION>NONE</ALLOWED_ACTION>
    </SRVB>
   </asx:values>
  </asx:abap>

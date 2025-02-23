@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page for Travel App",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Travel Application"
+  },
+  "sections": [
+    {
+      "id": "SECTION_1",
+      "title": "Section 1",
+      "visualizations": [
+        {
+          "id": "SECTION_1_VIZ_1",
+          "ladiAssignment": {
+            "ladiId": "ZRAP100_2025_UI5R",
+            "tileId": "UI5R_40DA204BAC7FA8E30304B3CA10684D54E8965D54_AL"
+          }
+        }
+      ]
+    }
+  ]
+}

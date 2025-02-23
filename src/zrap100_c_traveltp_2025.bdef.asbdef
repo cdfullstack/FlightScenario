@@ -9,6 +9,11 @@ use etag
   use update;
   use delete;
 
+  use action deductDiscount;
+  use action copyTravel;
+  use action acceptTravel;
+  use action rejectTravel;
+
   use action Edit;
   use action Activate;
   use action Discard;
